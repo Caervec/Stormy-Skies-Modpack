@@ -1,4 +1,4 @@
-# Stormy-Skies-Local-Repository
+# Stormy-Skies-Repository
  Stormy Skies modpack local workspace.
 
 Stormy Skies is something of a hobby project being created by a single amateur modpack maker: me, Caervec. Because of this, the process for updating will be very slow.
